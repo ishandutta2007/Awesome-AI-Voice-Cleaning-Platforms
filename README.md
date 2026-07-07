@@ -23,23 +23,14 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (AI Voice Cleaning)
 
-- **[ElevenLabs Voice Isolator](https://elevenlabs.io/)**  
-  High-quality AI tool for isolating and cleaning vocals with exceptional clarity and natural results.
-
-- **[Adobe Enhance Speech](https://www.adobe.com/products/premiere/enhance-speech.html)**  
-  Professional speech enhancement integrated into Adobe tools with strong noise reduction.
-
-- **[LALAL.AI Voice Cleaner](https://www.lalal.ai/)**  
-  Popular stem splitter and voice isolation tool with excellent vocal separation.
-
-- **[Cleanvoice AI](https://cleanvoice.ai/)**  
-  Specialized AI for removing filler words, noise, and improving podcast/audio quality.
-
-- **[VEED](https://www.veed.io/)**  
-  All-in-one video editor with powerful AI audio cleaning and voice enhancement features.
-
-- **[Voice Cleaner AI](https://voicecleaner.ai/)**  
-  Dedicated AI platform for restoring and enhancing spoken audio recordings.
+| Product | Description | Pricing & Free Tier Limits |
+|---------|-------------|----------------------------|
+| **[ElevenLabs Voice Isolator](https://elevenlabs.io/)** | High-quality AI tool for isolating and cleaning vocals with exceptional clarity and natural results. | **Free Tier:** 10,000 characters/month (non-commercial).<br>**Paid:** Starts at $5/month. |
+| **[Adobe Enhance Speech](https://www.adobe.com/products/premiere/enhance-speech.html)** | Professional speech enhancement integrated into Adobe tools with strong noise reduction. | **Free Tier:** Up to 1 hr/day, max 30 mins (500 MB) per file.<br>**Paid:** Premium starts at $9.99/month. |
+| **[LALAL.AI Voice Cleaner](https://www.lalal.ai/)** | Popular stem splitter and voice isolation tool with excellent vocal separation. | **Free Tier:** 10 minutes total processing (max 200 MB file).<br>**Paid:** Packs start at $15 for 90 mins. |
+| **[Cleanvoice AI](https://cleanvoice.ai/)** | Specialized AI for removing filler words, noise, and improving podcast/audio quality. | **Free Tier:** 30 minutes free trial.<br>**Paid:** Starts at €10/month or pay-as-you-go. |
+| **[VEED](https://www.veed.io/)** | All-in-one video editor with powerful AI audio cleaning and voice enhancement features. | **Free Tier:** Watermarked, 720p max, ~10 mins/project.<br>**Paid:** Starts at $18/month. |
+| **[Voice Cleaner AI](https://voicecleaner.ai/)** | Dedicated AI platform for restoring and enhancing spoken audio recordings. | **Free Tier:** Available with file size limits.<br>**Paid:** Subscription and pay-as-you-go options. |
 
 ### Advanced & Specialized Platforms
 
