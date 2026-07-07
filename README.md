@@ -105,3 +105,15 @@ Star the repo if you find it useful!
 
 **Made for podcasters, content creators, video editors, and audio engineers.**  
 Let's make voice cleaning more accessible, private, and high-quality.
+
+
+## 📈 Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-AI-Voice-Cleaning-Platforms&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Voice-Cleaning-Platforms&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Voice-Cleaning-Platforms&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Voice-Cleaning-Platforms&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
