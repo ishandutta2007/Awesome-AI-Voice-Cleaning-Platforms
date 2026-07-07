@@ -1,5 +1,8 @@
-# Awesome-AI-Voice-Cleaning-Platforms
-## Top AI Voice Cleaning Platforms Ecosystem
+# 🎙️ Awesome-AI-Voice-Cleaning-Platforms
+
+![Banner](assets/banner.svg)
+
+## 🏆 Top AI Voice Cleaning Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Voice Isolation, Noise Removal & Audio Enhancement*  
@@ -13,13 +16,13 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
+## 📊 Table of Contents
 - [SaaS Products](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS Products
+## ☁️ SaaS Products
 
 ### Core Platforms (AI Voice Cleaning)
 
@@ -36,7 +39,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Other notable mentions**: Descript Overdub, Krisp, and various AI audio restoration tools.
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 ### Dedicated Voice Cleaning & Audio Enhancement Tools
 
@@ -80,7 +83,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom tools**: Combine **Ultimate Vocal Remover**, **Demucs**, **DeepFilterNet**, and **Whisper** with **LangGraph** for fully automated voice cleaning agents.
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
@@ -89,7 +92,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - AI voice cleaning results can vary based on input audio quality and background complexity.

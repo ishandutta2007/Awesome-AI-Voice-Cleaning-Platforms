@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1e2f" />
+      <stop offset="100%" stop-color="#2a2a40" />
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff7eb3" />
+      <stop offset="100%" stop-color="#ff758c" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#bg)" rx="15" />
+  
+  <g fill="#4facfe">
+    <rect x="50" y="80" width="10" height="40" rx="5">
+      <animate attributeName="height" values="40;80;40" dur="1s" repeatCount="indefinite" />
+      <animate attributeName="y" values="80;60;80" dur="1s" repeatCount="indefinite" />
+    </rect>
+    <rect x="70" y="60" width="10" height="80" rx="5">
+      <animate attributeName="height" values="80;120;80" dur="1.2s" repeatCount="indefinite" />
+      <animate attributeName="y" values="60;40;60" dur="1.2s" repeatCount="indefinite" />
+    </rect>
+    <rect x="90" y="90" width="10" height="20" rx="5">
+      <animate attributeName="height" values="20;60;20" dur="0.8s" repeatCount="indefinite" />
+      <animate attributeName="y" values="90;70;90" dur="0.8s" repeatCount="indefinite" />
+    </rect>
+    <rect x="110" y="50" width="10" height="100" rx="5">
+      <animate attributeName="height" values="100;140;100" dur="1.5s" repeatCount="indefinite" />
+      <animate attributeName="y" values="50;30;50" dur="1.5s" repeatCount="indefinite" />
+    </rect>
+    <rect x="130" y="70" width="10" height="60" rx="5">
+      <animate attributeName="height" values="60;90;60" dur="1.1s" repeatCount="indefinite" />
+      <animate attributeName="y" values="70;55;70" dur="1.1s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  
+  <text x="170" y="115" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="url(#textGrad)">
+    Awesome AI Voice Cleaning
+  </text>
+  <text x="172" y="150" font-family="Arial, sans-serif" font-size="16" fill="#a8a8b3">
+    Enhance, Isolate &amp; Restore Audio with AI
+  </text>
+</svg>
