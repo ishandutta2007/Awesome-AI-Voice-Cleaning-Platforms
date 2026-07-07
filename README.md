@@ -1,1 +1,110 @@
 # Awesome-AI-Voice-Cleaning-Platforms
+## Top AI Voice Cleaning Platforms Ecosystem
+
+**Curated List of SaaS Products & Open-Source GitHub Projects**  
+*Focused on Voice Isolation, Noise Removal & Audio Enhancement*  
+**Last updated: March 2026**
+
+This repository tracks notable **SaaS platforms** and **open-source projects** building **AI Voice Cleaning Tools**. These tools intelligently remove background noise, isolate vocals, enhance speech clarity, and restore audio quality from recordings, podcasts, interviews, and video calls.
+
+**Examples** include ElevenLabs Voice Isolator, Adobe Enhance Speech, LALAL.AI Voice Cleaner, Cleanvoice AI, VEED, and Voice Cleaner AI (the category leaders). Tools listed here emphasize **real-time processing**, natural sound preservation, multi-speaker separation, and high-fidelity output.
+
+**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local GPU acceleration, model fine-tuning, and unlimited usage — ideal for podcasters, content creators, and developers who want privacy and control.
+
+Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+
+## Table of Contents
+- [SaaS Products](#saas-products)
+- [Open-Source GitHub Projects](#open-source-github-projects)
+- [How to Contribute](#how-to-contribute)
+- [Disclaimer](#disclaimer)
+
+## SaaS Products
+
+### Core Platforms (AI Voice Cleaning)
+
+- **[ElevenLabs Voice Isolator](https://elevenlabs.io/)**  
+  High-quality AI tool for isolating and cleaning vocals with exceptional clarity and natural results.
+
+- **[Adobe Enhance Speech](https://www.adobe.com/products/premiere/enhance-speech.html)**  
+  Professional speech enhancement integrated into Adobe tools with strong noise reduction.
+
+- **[LALAL.AI Voice Cleaner](https://www.lalal.ai/)**  
+  Popular stem splitter and voice isolation tool with excellent vocal separation.
+
+- **[Cleanvoice AI](https://cleanvoice.ai/)**  
+  Specialized AI for removing filler words, noise, and improving podcast/audio quality.
+
+- **[VEED](https://www.veed.io/)**  
+  All-in-one video editor with powerful AI audio cleaning and voice enhancement features.
+
+- **[Voice Cleaner AI](https://voicecleaner.ai/)**  
+  Dedicated AI platform for restoring and enhancing spoken audio recordings.
+
+### Advanced & Specialized Platforms
+
+**Other notable mentions**: Descript Overdub, Krisp, and various AI audio restoration tools.
+
+## Open-Source GitHub Projects
+
+### Dedicated Voice Cleaning & Audio Enhancement Tools
+
+- **[Ultimate Vocal Remover (UVR)](https://github.com/Anjok07/ultimatevocalremovergui)**  
+  The most popular open-source tool for isolating vocals and removing background noise with multiple AI models.
+
+- **[Demucs](https://github.com/facebookresearch/demucs)**  
+  State-of-the-art open-source source separation model from Facebook Research, excellent for voice isolation.
+
+- **[Open-Unmix](https://github.com/sigsep/open-unmix)**  
+  Open-source library for music and voice source separation with strong performance.
+
+- **[Asteroid](https://github.com/asteroid-team/asteroid)**  
+  PyTorch-based audio source separation toolkit with many pre-trained models for voice cleaning.
+
+- **[Spleeter](https://github.com/deezer/spleeter)**  
+  Deezer’s open-source tool for fast and high-quality vocal separation from audio.
+
+- **[RNNoise](https://github.com/xiph/rnnoise)**  
+  Open-source noise suppression library optimized for real-time voice communication.
+
+- **[DeepFilterNet](https://github.com/Rikorose/DeepFilterNet)**  
+  Real-time speech enhancement and noise suppression using deep learning.
+
+- **[NVIDIA NeMo](https://github.com/NVIDIA/NeMo)**  
+  Toolkit with powerful speech enhancement and voice processing models.
+
+- **[Whisper + Audio Post-Processing](https://github.com/openai/whisper)**  
+  OpenAI’s Whisper for transcription combined with noise reduction pipelines.
+
+- **[PyDub + Noise Reduction Scripts](https://github.com/jiaaro/pydub)**  
+  Simple yet powerful audio manipulation library often used in custom voice cleaning pipelines.
+
+### Additional Strong Open-Source Options
+
+- **[ torchaudio + Torch** based voice enhancement models.
+- **[Demucs v4** forks and improvements for better vocal isolation.
+- **[AudioCraft / MusicGen** for related audio generation and cleaning.
+- **[Kdenlive / DaVinci Resolve** open-source plugins for AI audio restoration.
+- Many community **Ollama + Voice** pipelines for intelligent audio processing and cleaning.
+
+**Frameworks for building custom tools**: Combine **Ultimate Vocal Remover**, **Demucs**, **DeepFilterNet**, and **Whisper** with **LangGraph** for fully automated voice cleaning agents.
+
+## How to Contribute
+
+1. Fork the repo.
+2. Add/edit entries in `README.md` (follow existing format).
+3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
+4. Submit PR with a short explanation.
+
+Star the repo if you find it useful!
+
+## Disclaimer
+
+- This is a **community-curated** list — not exhaustive and not an endorsement.
+- AI voice cleaning results can vary based on input audio quality and background complexity.
+- Self-hosted open-source tools often require a capable GPU for best real-time performance.
+
+---
+
+**Made for podcasters, content creators, video editors, and audio engineers.**  
+Let's make voice cleaning more accessible, private, and high-quality.
