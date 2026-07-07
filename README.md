@@ -40,35 +40,35 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated Voice Cleaning & Audio Enhancement Tools
 
-- **[Ultimate Vocal Remover (UVR)](https://github.com/Anjok07/ultimatevocalremovergui)**  
-  The most popular open-source tool for isolating vocals and removing background noise with multiple AI models.
-
-- **[Demucs](https://github.com/facebookresearch/demucs)**  
-  State-of-the-art open-source source separation model from Facebook Research, excellent for voice isolation.
-
-- **[Open-Unmix](https://github.com/sigsep/open-unmix)**  
-  Open-source library for music and voice source separation with strong performance.
-
-- **[Asteroid](https://github.com/asteroid-team/asteroid)**  
-  PyTorch-based audio source separation toolkit with many pre-trained models for voice cleaning.
-
-- **[Spleeter](https://github.com/deezer/spleeter)**  
-  Deezer’s open-source tool for fast and high-quality vocal separation from audio.
-
-- **[RNNoise](https://github.com/xiph/rnnoise)**  
-  Open-source noise suppression library optimized for real-time voice communication.
-
-- **[DeepFilterNet](https://github.com/Rikorose/DeepFilterNet)**  
-  Real-time speech enhancement and noise suppression using deep learning.
-
-- **[NVIDIA NeMo](https://github.com/NVIDIA/NeMo)**  
-  Toolkit with powerful speech enhancement and voice processing models.
-
-- **[Whisper + Audio Post-Processing](https://github.com/openai/whisper)**  
+- **[Whisper + Audio Post-Processing](https://github.com/openai/whisper)** [![GitHub stars](https://img.shields.io/github/stars/openai/whisper?style=social&color=white)](https://github.com/openai/whisper/stargazers)  
   OpenAI’s Whisper for transcription combined with noise reduction pipelines.
 
-- **[PyDub + Noise Reduction Scripts](https://github.com/jiaaro/pydub)**  
+- **[Spleeter](https://github.com/deezer/spleeter)** [![GitHub stars](https://img.shields.io/github/stars/deezer/spleeter?style=social&color=white)](https://github.com/deezer/spleeter/stargazers)  
+  Deezer’s open-source tool for fast and high-quality vocal separation from audio.
+
+- **[Ultimate Vocal Remover (UVR)](https://github.com/Anjok07/ultimatevocalremovergui)** [![GitHub stars](https://img.shields.io/github/stars/Anjok07/ultimatevocalremovergui?style=social&color=white)](https://github.com/Anjok07/ultimatevocalremovergui/stargazers)  
+  The most popular open-source tool for isolating vocals and removing background noise with multiple AI models.
+
+- **[Demucs](https://github.com/facebookresearch/demucs)** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/demucs?style=social&color=white)](https://github.com/facebookresearch/demucs/stargazers)  
+  State-of-the-art open-source source separation model from Facebook Research, excellent for voice isolation.
+
+- **[NVIDIA NeMo](https://github.com/NVIDIA/NeMo)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/NeMo?style=social&color=white)](https://github.com/NVIDIA/NeMo/stargazers)  
+  Toolkit with powerful speech enhancement and voice processing models.
+
+- **[PyDub + Noise Reduction Scripts](https://github.com/jiaaro/pydub)** [![GitHub stars](https://img.shields.io/github/stars/jiaaro/pydub?style=social&color=white)](https://github.com/jiaaro/pydub/stargazers)  
   Simple yet powerful audio manipulation library often used in custom voice cleaning pipelines.
+
+- **[DeepFilterNet](https://github.com/Rikorose/DeepFilterNet)** [![GitHub stars](https://img.shields.io/github/stars/Rikorose/DeepFilterNet?style=social&color=white)](https://github.com/Rikorose/DeepFilterNet/stargazers)  
+  Real-time speech enhancement and noise suppression using deep learning.
+
+- **[RNNoise](https://github.com/xiph/rnnoise)** [![GitHub stars](https://img.shields.io/github/stars/xiph/rnnoise?style=social&color=white)](https://github.com/xiph/rnnoise/stargazers)  
+  Open-source noise suppression library optimized for real-time voice communication.
+
+- **[Asteroid](https://github.com/asteroid-team/asteroid)** [![GitHub stars](https://img.shields.io/github/stars/asteroid-team/asteroid?style=social&color=white)](https://github.com/asteroid-team/asteroid/stargazers)  
+  PyTorch-based audio source separation toolkit with many pre-trained models for voice cleaning.
+
+- **[Open-Unmix](https://github.com/sigsep/open-unmix)** [![GitHub stars](https://img.shields.io/github/stars/sigsep/open-unmix?style=social&color=white)](https://github.com/sigsep/open-unmix/stargazers)  
+  Open-source library for music and voice source separation with strong performance.
 
 ### Additional Strong Open-Source Options
 
